@@ -1,0 +1,8 @@
+E:\Drug-Storehouse\drug stroe\drug stroe\bin\Debug\drug stroe.exe.config
+E:\Drug-Storehouse\drug stroe\drug stroe\bin\Debug\drug stroe.exe
+E:\Drug-Storehouse\drug stroe\drug stroe\bin\Debug\drug stroe.pdb
+E:\Drug-Storehouse\drug stroe\drug stroe\obj\Debug\drug stroe.csprojResolveAssemblyReference.cache
+E:\Drug-Storehouse\drug stroe\drug stroe\obj\Debug\drug_stroe.Properties.Resources.resources
+E:\Drug-Storehouse\drug stroe\drug stroe\obj\Debug\drug stroe.csproj.GenerateResource.Cache
+E:\Drug-Storehouse\drug stroe\drug stroe\obj\Debug\drug stroe.exe
+E:\Drug-Storehouse\drug stroe\drug stroe\obj\Debug\drug stroe.pdb
