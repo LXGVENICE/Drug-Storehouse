@@ -12,13 +12,12 @@ namespace drug_stroe
         /// 应用程序的主入口点。
         /// </summary>
         [STAThread]
+
         static void Main()
         {
-            string ip = Ini.ReadIniData("database","ip","passwd.ini");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            fro
         }
     }
 }

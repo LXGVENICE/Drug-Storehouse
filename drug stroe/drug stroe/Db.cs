@@ -15,19 +15,19 @@ namespace drug_stroe
         private static StringBuilder _port;
         private static StringBuilder _basename;
         private static StringBuilder _username;
-        private static StringBuilder _passwb;
+        private static StringBuilder _passwd;
 
         //数据库
         private static SqlConnection _conn;
 
-        DB()
+        public DB(string path)
         {
             string section = "Database";
-            _ip = Ini.ReadIniData(section, "ip", "_passwb.ini");
-            _port = Ini.ReadIniData(section, "port", "_passwb.ini");
-            _basename = Ini.ReadIniData(section, "basename", "_passwb.ini");
-            _username = Ini.ReadIniData(section, "username", "_passwb.ini");
-            _passwb = Ini.ReadIniData(section, "passwb", "_passwb.ini");
+            _ip = Ini.ReadIniData(section, "ip", path);
+            _port = Ini.ReadIniData(section, "port", path);
+            _basename = Ini.ReadIniData(section, "basename", path);
+            _username = Ini.ReadIniData(section, "username", path);
+            _passwd = Ini.ReadIniData(section, "passwd", path);
         }
 
         ~DB()
@@ -35,14 +35,14 @@ namespace drug_stroe
             _conn.Close();
         }
 
-        public static bool connect()
+        public bool connect()
         {
             //SQL server .net 4.5
-            string con = "Data Source=" + _ip.ToString() + "," + _port.ToString() + ";"
+            string con = "Data Source=" + _ip.ToString() + ";"
                                   + "Network Library=DBMSSOCN;"
                                   + "Initial Catalog=" + _basename.ToString() + ";"
                                   + "User ID=" + _username.ToString() + ";"
-                                  + "Password=" + _passwb.ToString() + ";";
+                                  + "Password=" + _passwd.ToString() + ";";
             try
             {
                 _conn = new SqlConnection(con);
@@ -54,38 +54,49 @@ namespace drug_stroe
                 return false;
             }
         }
-        private static void ReadSingleRow(IDataRecord record, ref List<List<string>> vec, int n)
+
+        private void InitList(ref List<List<string>> ans, int n)
         {
-            List<string> tmp = new List<string>();
             for (int i = 0; i < n; ++i)
             {
-                tmp.Add(record[i].ToString());
+                List<string> tmp = new List<string>();
+                ans.Add(tmp);
             }
-            vec.Add(tmp);
         }
 
-        public static void query(string str, List<string> parse, int n)
+        private void ReadSingleRow(IDataRecord record, ref List<List<string>> ans)
         {
-            List<List<string>> vec = new List<List<string>>();
+            int n = record.FieldCount;
+            for (int i = 0; i < n; ++i)
+            {
+                ans[i].Add(record[i].ToString());
+            }
+        }
+
+/*
+        参数功能废弃
+        private void ReadSingleRow(IDataRecord record, ref List<string> parse, ref List<List<string>> ans)
+        {
+            int n = parse.Count();
+            for (int i = 0; i < n; ++i)
+            {
+                ans[i].Add(record[parse[i]].ToString());
+            }
+        }
+ */
+
+        public void query(string str, ref List<List<string>> ans)
+        {
             SqlCommand cmd = new SqlCommand(str, _conn);
             cmd.ExecuteNonQuery();
             SqlDataReader reader = cmd.ExecuteReader();
 
-            while(reader.Read())
+            int n = ((IDataRecord)reader).FieldCount;
+            InitList(ref ans, n);
+
+            while (reader.Read())
             {
-                if(parse.Count() == 0)
-                {
-                    ReadSingleRow((IDataRecord)reader,ref vec,n);
-                }
-                else
-                {
-                    List<string> tmp = new List<string>();
-                    foreach (string s in parse)
-                    {
-                        tmp.Add(reader[s].ToString());
-                    }
-                    vec.Add(tmp);
-                }
+                    ReadSingleRow((IDataRecord)reader, ref ans);
             }
         }
     }
