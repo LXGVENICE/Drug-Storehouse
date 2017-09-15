@@ -1,0 +1,94 @@
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.success.resources
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\药库管理系统.csproj.GenerateResource.Cache
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\药库管理系统.csprojResolveAssemblyReference.cache
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Log.resources
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Insert.resources
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DLLFullPrint.dll
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.inStoreQuery.resources
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.QuerySelect.resources
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.outStoreQuery.resources
+C:\Users\admini\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.outStoreQuerySelect.resources
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\药库管理系统.csproj.GenerateResource.Cache
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\药库管理系统.csprojResolveAssemblyReference.cache
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\xaut_hospital.Out.resources
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\xaut_hospital.Insert.resources
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\xaut_hospital.inStoreQuery.resources
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\xaut_hospital.outStoreQuerySelect.resources
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\xaut_hospital.QuerySelect.resources
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\xaut_hospital.Log.resources
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\xaut_hospital.outStoreQuery.resources
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\xaut_hospital.Properties.Resources.resources
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\xaut_hospital.success.resources
+C:\Users\wfire\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\xaut_hospital.MedicineInfor.resources
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\药库管理系统.csprojResolveAssemblyReference.cache
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.MedicineInfor.resources
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Out.resources
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Insert.resources
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.inStoreQuery.resources
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.outStoreQuerySelect.resources
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.QuerySelect.resources
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Log.resources
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.outStoreQuery.resources
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Properties.Resources.resources
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.success.resources
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\药库管理系统.csproj.GenerateResource.Cache
+C:\Users\wfire\Desktop\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.TakeMed.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\bin\Debug\DLLFullPrint.dll
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.MedicineInfor.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Out.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Insert.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.inStoreQuery.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.outStoreQuerySelect.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.QuerySelect.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Log.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.outStoreQuery.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Properties.Resources.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.success.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.TakeMed.resources
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\药库管理系统.csproj.GenerateResource.Cache
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admini\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\药库管理系统.csprojResolveAssemblyReference.cache
+G:\Hospital_v1.0\Hospital\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\药库管理系统.csprojResolveAssemblyReference.cache
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.MedicineInfor.resources
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Out.resources
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Insert.resources
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.inStoreQuery.resources
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.outStoreQuerySelect.resources
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.QuerySelect.resources
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Log.resources
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.outStoreQuery.resources
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.Properties.Resources.resources
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.success.resources
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\xaut_hospital.TakeMed.resources
+C:\Users\lxg_z\Desktop\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\药库管理系统.csproj.GenerateResource.Cache
+E:\Drug-Storehouse\Hospital_v1.0\Hospital\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Drug-Storehouse\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Drug-Storehouse\Hospital_v1.0\Hospital\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
